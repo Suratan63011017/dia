@@ -18,7 +18,7 @@
 
 เป็นโปรเจคเกี่ยวกับ Data Science ที่เน้นไปที่การทำ Data Visualization
 
-ทำโดยภาษา python และส่วนเสริมสำคัญทั้ง numpy, seaborn, pandas, sklearn ฯลฯ
+ทำโดยภาษา python และส่วนเสริมสำคัญทั้ง numpy, seaborn, pandas ฯลฯ
 
 ทำเรื่อง diamonds(เพชร) โดยมีแหล่งที่มาข้อมูลจาก https://www.kaggle.com/datasets/shivam2503/diamonds
 
