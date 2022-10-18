@@ -16,10 +16,14 @@
 
 ------------------------------
 
-เป็นโปรเจคเกี่ยวกับ Data Science ที่เน้นไปทางการทำ Data Visualization 
+เป็นโปรเจคเกี่ยวกับ Data Science ที่เน้นไปที่การวิเคราะห์ความน่าจะเป็น และสถิติ ของข้อมูล
+
+- จัดการกับ Outlier
 
 ทำโดยภาษา python และส่วนเสริมสำคัญทั้ง numpy, seaborn, pandas, sklearn ฯลฯ
 
 ทำเรื่อง diamonds(เพชร) โดยมีแหล่งที่มาข้อมูลจาก https://www.kaggle.com/datasets/shivam2503/diamonds
+
+
 
 ------------------------------
