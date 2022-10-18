@@ -16,7 +16,7 @@
 
 ------------------------------
 
-เป็นโปรเจคเกี่ยวกับ Data Science ที่เน้นไปที่การทำ Data Visualization
+เป็นโปรเจคเกี่ยวกับ Data Science ที่มีการทำ Data Visualization
 
 ทำโดยภาษา python และส่วนเสริมสำคัญทั้ง numpy, seaborn, pandas ฯลฯ
 
