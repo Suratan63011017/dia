@@ -1,4 +1,4 @@
-# Probability And Statistics Project 📈
+# Diamonds Project 📈
 
 โปรเจคนี้เป็นส่วนหนึ่งของวิชา PROBABILITY AND STATISTICS 01076253
 
